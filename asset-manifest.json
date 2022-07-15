@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/merge-pdf/static/css/main.31d6cfe0.css",
+    "main.js": "/merge-pdf/static/js/main.818b7bb6.js",
+    "index.html": "/merge-pdf/index.html",
+    "main.818b7bb6.js.map": "/merge-pdf/static/js/main.818b7bb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.818b7bb6.js"
+  ]
+}
